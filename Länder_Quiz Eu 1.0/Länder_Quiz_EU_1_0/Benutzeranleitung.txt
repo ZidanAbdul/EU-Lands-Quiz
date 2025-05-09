@@ -1,0 +1,41 @@
+LÄNDER-QUIZ EU 1.0 – Anleitung 🧒👧
+
+👶 Für wen ist das Spiel?
+- Für Benutzer ab 6 Jahren
+- Für alle, die Europa kennenlernen möchten
+
+📌 Was ist das Spiel?
+Ein Lernspiel über Länder in Europa.
+Du siehst Flaggen und musst die richtige Antwort finden.
+
+🎮 Was musst du tun?
+- Manchmal siehst du eine Flagge und sollst den richtigen Ländernamen anklicken.
+- Manchmal siehst du eine Flagge und den Ländernamen – du sollst dann die richtige Hauptstadt wählen.
+
+🖥️ Wie startest du das Spiel?
+1. Doppelklick auf „Länder_Quiz.exe".
+2. Das Spiel öffnet sich.
+3. Klicke auf „Spiel starten".
+
+📊 Was passiert danach?
+- Für jede richtige Antwort bekommst du einen Punkt.
+- Am Ende siehst du, wie viele Fragen du richtig und falsch beantwortet hast.
+
+🌟 Was sagt dir das Spiel am Ende?
+- Bei über 80% richtigen Antworten: "Super gemacht!"
+- Bei über 50% richtigen Antworten: "Gut gemacht, du kannst noch besser werden!"
+- Bei weniger als 50%: "Du solltest mehr üben!"
+
+🔄 Kannst du nochmal spielen?
+Ja! Am Ende des Spiels kannst du:
+- Auf "Quiz erneut starten" klicken für eine neue Runde
+- Oder auf "Beenden" klicken, wenn du aufhören möchtest
+
+🔚 Wie kannst du das Spiel beenden?
+- Du kannst oben rechts auf das „X" klicken
+- Oder du klickst im Spiel auf den roten Knopf „Quiz beenden"
+
+💡 Wichtig:
+Du brauchst kein Internet!
+
+Viel Spaß beim Spielen! 🎉
